@@ -6,10 +6,12 @@
 
 ## Установка
 
-
-    ```bash
+```bash
     git clone https://github.com/sjavastar-t/SF-frontend-YouTalk
     cd sf-frontend-youtalk
+```
+
+
+## Запуск
+
     index.html
-    
-    
